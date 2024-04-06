@@ -1,6 +1,6 @@
 # template
 
 <br>
-To use run <mark style="background-color: lightgray">`npm install`</mark>
+To use run **npm install**
 <br>
-Change package.json & dist/index.html <mark style="background-color: lightgray">name</mark> to your project name.
+Change package.json & dist/index.html **name**to your project name.
